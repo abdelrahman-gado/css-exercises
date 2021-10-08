@@ -24,22 +24,22 @@ These exercises should be done when instructed during the course of the curricul
 ## Checklist for exercises (insert check ✅ into [ ] upon completion)
 
 1. Foundations:
-  - 01-css-methods [ ]
-  - 02-class-id-selectors [ ]
-  - 03-grouping-selectors [ ]
-  - 04-chaining-selectors [ ]
-  - 05-descendant-combinator [ ]
-  - 06-cascade-fix [ ]
+  - 01-css-methods [x]
+  - 02-class-id-selectors [x]
+  - 03-grouping-selectors [x]
+  - 04-chaining-selectors [x]
+  - 05-descendant-combinator [x]
+  - 06-cascade-fix [x]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
-  - margin-and-padding-2 [ ]
+  - margin-and-padding-1 [x]
+  - margin-and-padding-2 [x]
  
 3. Flex:
-  - 01-flex-center [ ]
-  - 02-flex-header [ ]
-  - 03-flex-header-2 [ ]
-  - 04-flex-information [ ]
-  - 05-flex-modal [ ]
-  - 06-flex-layout [ ]
-  - 07-flex-layout-2 [ ]
+  - 01-flex-center [x]
+  - 02-flex-header [x]
+  - 03-flex-header-2 [x]
+  - 04-flex-information [x]
+  - 05-flex-modal [x]
+  - 06-flex-layout [x]
+  - 07-flex-layout-2 [x]
